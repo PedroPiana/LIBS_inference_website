@@ -1,0 +1,15 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+
+.conda
+.venv
+venv
+env
+
+.ipynb_checkpoints
+
+.env
+
+dataset/
